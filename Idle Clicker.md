@@ -1,6 +1,6 @@
 Let's make a game
   name:Click As Fast As You Can!
-  author:Nico Bruinsma
+  by:Nico Bruinsma
   desc:Click the button. Buy upgrades. An Idle Clicker Madness!
   fourm post:1234
   created:5/10/2018
